@@ -2,7 +2,7 @@
 ![](assets/logo_toronto.gif)
 ![](assets/logo_vancouver.png)
 
-<img src="assets/logo_toronto.gif" width="100>
+<img src="assets/logo_toronto.gif" width="100">
 
 ## Project description
 Comparing the weather in Vancouver vs. Toronto. There were two primary questions:
