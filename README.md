@@ -1,12 +1,8 @@
 # Vancouver vs. Toronto Weather Analysis
-![](assets/logo_toronto.gif)
-![](assets/logo_vancouver.png)
-
 <p float="left">
     <img src="assets/logo_toronto.gif" height="100">
     <img src="assets/logo_vancouver.png" height="100">
 </p>
-
 
 ## Project description
 Comparing the weather in Vancouver vs. Toronto. There were two primary questions:
